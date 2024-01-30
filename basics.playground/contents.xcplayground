@@ -4,6 +4,8 @@
         <page name='suma'/>
         <page name='resta'/>
         <page name='bool'/>
-        <page name='more'/>
+        <page name='if'/>
+        <page name='reals'/>
+        <page name='func'/>
     </pages>
 </playground>

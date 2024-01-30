@@ -1,7 +1,8 @@
-//: [Previous](@previous)
-
 import Foundation
 
-var greeting = "Hello, playground"
+var radio: Double = 25
 
-//: [Next](@next)
+radio += 1
+radio -= 1
+
+print(radio)
