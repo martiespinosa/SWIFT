@@ -7,5 +7,6 @@
         <page name='if'/>
         <page name='reals'/>
         <page name='func'/>
+        <page name='guard'/>
     </pages>
 </playground>
