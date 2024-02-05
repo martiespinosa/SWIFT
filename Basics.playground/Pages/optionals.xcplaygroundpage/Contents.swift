@@ -8,7 +8,7 @@ import Foundation
 var userIsPremium: Bool? = nil
 
 // Unwrapped with "??"
-func checkIfUserIsPremium() -> Bool {
+func checkIfUserIsPremium1() -> Bool {
     return userIsPremium ?? false
 }
 
@@ -28,6 +28,6 @@ func checkIfUserIsPremium3() -> Bool {
     return userIsPremium
 }
 
-print(checkIfUserIsPremium())
+print(checkIfUserIsPremium1())
 print(checkIfUserIsPremium2())
 print(checkIfUserIsPremium3())
