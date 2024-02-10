@@ -7,7 +7,7 @@ import Foundation
 
 var userIsPremium: Bool? = nil
 
-// Unwrapped with "??"
+// Unwrapped with "??" (nil coalscing)
 func checkIfUserIsPremium1() -> Bool {
     return userIsPremium ?? false
 }
