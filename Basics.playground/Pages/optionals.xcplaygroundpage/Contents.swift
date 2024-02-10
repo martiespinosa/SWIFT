@@ -31,3 +31,11 @@ func checkIfUserIsPremium3() -> Bool {
 print(checkIfUserIsPremium1())
 print(checkIfUserIsPremium2())
 print(checkIfUserIsPremium3())
+
+
+
+// Optional chaining. 
+// En este caso si username no es nil y el primer cacacter no es nil, devolvera true o false según si el primer caracter esta en minúscula o no. Si username es nil o el primer caracter de username es nil devolverá nil.
+let username: String? = ""
+let firstCharacterIsLowercased: Bool? = username?.first?.isLowercase
+print(firstCharacterIsLowercased)
