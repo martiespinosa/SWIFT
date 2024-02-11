@@ -9,5 +9,6 @@
         <page name='func'/>
         <page name='guard'/>
         <page name='optionals'/>
+        <page name='tuples'/>
     </pages>
 </playground>
