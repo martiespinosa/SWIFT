@@ -10,5 +10,6 @@
         <page name='guard'/>
         <page name='optionals'/>
         <page name='tuples'/>
+        <page name='poo'/>
     </pages>
 </playground>
