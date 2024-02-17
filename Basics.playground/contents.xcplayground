@@ -12,5 +12,6 @@
         <page name='tuples'/>
         <page name='poo'/>
         <page name='structs'/>
+        <page name='enums'/>
     </pages>
 </playground>
