@@ -11,5 +11,6 @@
         <page name='optionals'/>
         <page name='tuples'/>
         <page name='poo'/>
+        <page name='structs'/>
     </pages>
 </playground>
