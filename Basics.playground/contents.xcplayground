@@ -13,5 +13,6 @@
         <page name='poo'/>
         <page name='structs'/>
         <page name='enums'/>
+        <page name='classes'/>
     </pages>
 </playground>
