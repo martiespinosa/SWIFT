@@ -14,5 +14,6 @@
         <page name='structs'/>
         <page name='enums'/>
         <page name='classes'/>
+        <page name='for'/>
     </pages>
 </playground>
